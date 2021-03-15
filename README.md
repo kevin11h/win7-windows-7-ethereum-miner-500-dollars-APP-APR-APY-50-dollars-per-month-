@@ -5,3 +5,7 @@ https://github.com/kevin11h/Win7-4-step-Ethereum-mining-dollar-day-fifty--50-dol
 https://github.com/kevin11h/100-dollars-p-month-APY-APP-ARR-100K-100-hundred-grand-thousdands-to-generate-100-dollars-per-month
 
 https://github.com/kevin11h/100-dollars-p-month-APY-APP-ARR-100K-100-hundred-grand-thousdands-to-generate-100-dollars-per-month
+
+
+
+https://medium.com/the-capital/i-built-an-ethereum-mining-rig-in-2020-for-under-1-000-d03bc5413ee6
