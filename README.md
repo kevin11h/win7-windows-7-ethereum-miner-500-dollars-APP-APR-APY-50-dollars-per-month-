@@ -2,7 +2,8 @@
 ## 10 Minutes https://github.com/ethereum/mist/releases
 https://qr.ae/pNfjdm
 
-https://en.bitcoin.it/wiki/Non-specialized_hardware_comparison
+# https://en.bitcoin.it/wiki/Non-specialized_hardware_comparison
+# https://en.bitcoin.it/wiki/Non-specialized_hardware_comparison
 
 https://github.com/kevin11h/Win7-4-step-Ethereum-mining-dollar-day-fifty--50-dollars-per-month-Fifty-Dollars-Monthly-APY-Percent
 
